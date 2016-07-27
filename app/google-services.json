@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "79209800223",
+    "project_id": "pokemongo-5a16f"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79209800223:android:55bb5738fe504c0c",
+        "android_client_info": {
+          "package_name": "com.example.jdagnogo.pokemongo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79209800223-kcifehkm2a4rl8cq5i7m6e9gn9fakh8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jdagnogo.pokemongo",
+            "certificate_hash": "64520E63FCA1154B9220AD185D243FF07B48C2FF"
+          }
+        },
+        {
+          "client_id": "79209800223-bhu6dagsit0a67jhgo0q7668fcuhs1l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfnhwoxUzXvrdJmd4Xs5JrasqQlfa3xpM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
